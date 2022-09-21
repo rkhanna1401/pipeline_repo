@@ -1,0 +1,1 @@
+[{"deploymentId":{"appId":"m5eae3a9ef000010","developerId":"admin","edgeId":"edge73","sessionId":"5eae3c443000006"},"microservices":[{"eventBindings":[],"httpBindings":[],"microserviceId":"test2svc","networkBindings":[{"endpoint":"tcp://10.139.2.74:32700","interfaceId":"testport"}],"sessionId":"5eae3c443000006","version":"1.0"}]}]
