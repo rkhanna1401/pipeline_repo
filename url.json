@@ -1,0 +1,7 @@
+{
+  "standalone_huburl" : "http://localhost:4444/wd/hub",
+  "hub_node_huburl" : "http://localhost:4444",
+  "distributed_huburl" : "http://localhost:4444",
+  "kube_huburl" : "http://127.0.0.1:54165/wd/hub",
+  "baseurl" : "https://172.19.79.169:31012/MEC/"
+}
